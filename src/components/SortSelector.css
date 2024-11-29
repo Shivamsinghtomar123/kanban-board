@@ -1,0 +1,18 @@
+.sort-selector-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .sort-selector-container label {
+    font-weight: 500;
+    color: #4a4f57;
+  }
+  
+  .sort-selector {
+    padding: 8px;
+    border: 1px solid #e0e0e0;
+    border-radius: 4px;
+    background-color: white;
+    font-size: 14px;
+  }
